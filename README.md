@@ -13,7 +13,7 @@
 </h1>
   
   ###  About Me :man_technologist:
-I am Computer sceince student :man_student:
+- :man_student: I am Computer sceince student 
   
 - :telescope: Intersting in Cyber and Security and Communication Networks fields.
 
